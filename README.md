@@ -14,6 +14,6 @@ This is a full stack application to find apartment in your desired location.
 
 Technology : React, React-Router, SCSS, Bootstrap, Redux, React-Redux, MongoDB, Node js, Express js, Heroku, Firebase
 
-* [Live Site](https://team1-apartment-hunt.netlify.app/)
-* [Client Code](https://github.com/masfikalam/Apartment-Hunt)
-* [Server Code](https://github.com/ArzuAshik/apartment-hunt-server)
+* [Live Site](https://appartment-hunt.netlify.app/)
+* [Client Code](https://github.com/rahmatullah23/apartment-hunt)
+* [Server Code](https://github.com/rahmatullah23/apartment-hunt-server)
