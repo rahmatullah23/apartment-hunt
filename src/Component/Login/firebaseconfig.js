@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyB1vpM-I918YvtnwfS7lZq9TdN04xLaIsA",
-  authDomain: "ar-apartment-hunt.firebaseapp.com",
-  databaseURL: "https://ar-apartment-hunt.firebaseio.com",
-  projectId: "ar-apartment-hunt",
-  storageBucket: "ar-apartment-hunt.appspot.com",
-  messagingSenderId: "761833582295",
-  appId: "1:761833582295:web:08da2fea4305a3ce59ca92"
+  apiKey: "AIzaSyDXpIC_PsGvFBq4uSyXgzLIm5FjNyIFzTw",
+  authDomain: "appartment-hunt-7bd30.firebaseapp.com",
+  databaseURL: "https://appartment-hunt-7bd30.firebaseio.com",
+  projectId: "appartment-hunt-7bd30",
+  storageBucket: "appartment-hunt-7bd30.appspot.com",
+  messagingSenderId: "675766770802",
+  appId: "1:675766770802:web:64aaffdd790a48b6cc36eb"
 };
-
 export default firebaseConfig;
+
