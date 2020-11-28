@@ -1,0 +1,26 @@
+#dashboard input::file-selector-button {
+  height: 35px;
+  border-radius: 10px;
+  border: 2px solid #009444;
+  cursor: pointer;
+  background-color: #deffed;
+}
+
+#dashboard form.form {
+  margin: 30px auto;
+  padding: 2rem;
+  /* max-width: 40rem; */
+  background: white;
+  border: none;
+  border-radius: 20px;
+}
+
+#dashboard form.form h3 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+#dashboard form.form button {
+  background-color: #275a53;
+}
+/*# sourceMappingURL=Addhouse.css.map */

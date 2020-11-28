@@ -1,0 +1,29 @@
+#login form.form1 {
+  max-width: 30rem;
+  margin: auto;
+  border-radius: 4px;
+  padding: 50px;
+  border: 1px solid #a7a7a7;
+}
+
+#login form.form1 input.login {
+  background-color: #275a53;
+  color: white;
+}
+
+#login form.form1 small {
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  font-size: 16px;
+}
+
+#login form.form1 button.rounded-pill {
+  border: 1px solid #a7a7a7;
+}
+
+#login form.form1 button.rounded-pill:hover {
+  -webkit-box-shadow: 0 0 10px 0 gray;
+          box-shadow: 0 0 10px 0 gray;
+}
+/*# sourceMappingURL=Login.css.map */

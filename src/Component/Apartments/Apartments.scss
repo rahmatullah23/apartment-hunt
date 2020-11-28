@@ -1,0 +1,25 @@
+$primary: #16322e;
+$secondary: #275a53;
+
+#apartments {
+    background-color: #f1f6f4;
+    h2,h3 {
+        color: $primary;
+    }
+    p {
+        color: $secondary;
+    }
+    h3.price {
+        color: $secondary;
+    }
+    .btn {
+        background-color: $secondary;
+        border: none;
+        color: white;
+        border-radius: 5px;
+    }
+    p.text-left {
+        color: #686868;
+        margin: 0;
+    }
+}

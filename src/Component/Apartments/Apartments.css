@@ -1,0 +1,28 @@
+#apartments {
+  background-color: #f1f6f4;
+}
+
+#apartments h2, #apartments h3 {
+  color: #16322e;
+}
+
+#apartments p {
+  color: #275a53;
+}
+
+#apartments h3.price {
+  color: #275a53;
+}
+
+#apartments .btn {
+  background-color: #275a53;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+
+#apartments p.text-left {
+  color: #686868;
+  margin: 0;
+}
+/*# sourceMappingURL=Apartments.css.map */

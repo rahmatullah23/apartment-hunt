@@ -1,0 +1,37 @@
+$primary: #16322e;
+$secondary: #275a53;
+
+#details {
+    h2, h4 {
+        color: $primary;
+    }
+    h3 {
+        color: $secondary;
+    }
+    p {
+        color: #6e6e6e;
+        margin: 0;
+        font-size: 20px;
+    }
+    button {
+        background-color: $secondary;
+        color: white;
+    }
+    header#two {
+        height: 300px;
+        background: linear-gradient(0deg, rgba(0, 0,0, 0.75), rgba(0, 0, 0, 0.65)),  url("../../images/back.png");
+        background-size: cover;
+        background-position: center;
+        button.btn {
+            background-color: #275A53;
+        }
+    }
+    
+    @media (max-width: 500px) {
+        header {
+            h1 {
+                font-size: 30px;
+            }
+        }
+    }
+}

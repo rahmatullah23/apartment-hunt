@@ -1,0 +1,27 @@
+$secondary: #275a53;
+
+#login {
+    form.form1 {
+        max-width: 30rem;
+        margin: auto;
+        border-radius: 4px;
+        padding: 50px;
+        border: 1px solid #a7a7a7;
+        input.login {
+            background-color: $secondary;
+            color: white;
+        }
+        small {
+            display: block;
+            text-align: center;
+            margin: 20px auto;
+            font-size: 16px;
+        }
+        button.rounded-pill {
+            border: 1px solid #a7a7a7;
+        }
+        button.rounded-pill:hover {
+            box-shadow: 0 0 10px 0 gray;
+        }
+    }
+}
